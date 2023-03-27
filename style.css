@@ -1,0 +1,87 @@
+#index_head{
+    display: flex;
+}
+
+.info{
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    background-color: white;
+    padding: 8 rem 8 rem;
+    border: hidden;
+    border-radius: 1px;
+    margin-top: none;
+    margin-left: 5rem;
+    margin-bottom: 10 rem;
+    margin-right: 5rem;
+}
+p{
+    color: black;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.Features{
+    margin: auto;
+    text-align:center ;
+    background-color: rgb(204, 204,265);
+    border-radius: 0rem;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.index_products{
+    padding: 1rem 2rem 2rem 1rem;
+    height: 10rem;
+    width: 15rem;
+    margin-bottom: 1rem;
+}
+
+.index_records{
+  padding: 1rem 2rem 2rem 1rem;
+    height: 10rem;
+    width: 15rem; 
+    margin-bottom: 3rem; 
+}
+
+.index_orders{
+    padding: 1rem 2rem 2rem 1rem;
+    height: 10rem;
+    width: 15rem;
+    margin-bottom: 3rem;
+}
+
+.index_inventory{
+    padding: 1rem 2rem 2rem 1rem;
+    height: 10rem;
+    width: 15rem;
+    margin-top: 5rem;
+}
+
+.end_info{
+    padding: auto;
+   margin-top: 5rem; 
+   }
+
+.buttons{
+    border:hidden;
+}
+.buttons button{
+    border: hidden;
+    border-radius: 5%;
+    height: fit-content;
+    width: auto;
+    background-color: antiquewhite;
+}
+
+.buttons a{
+    text-decoration: none;
+    cursor: pointer;
+    color: blueviolet;
+}
+
+footer{
+    background-color: silver;
+    text-align: justify;
+    justify-content: space-around;
+}
